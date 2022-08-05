@@ -21,3 +21,5 @@ On macOS, this can be done by changing App Shortcuts:
 Now the default when using the `⌘T` shortcut (<kdb>`cmd`</kdb>-<kdb>`T`</kdb>) will be to open a tab to the right of your current tab, which is a much nicer UX. If you want to open a tab at the end of all of the tabs, use the shortcut `⌘⌥T` (<kdb>`cmd`</kdb>-<kdb>`alt`</kdb>-<kdb>`T`</kdb>).
 
 Credit for this trick goes to to `mblakesley` for [their answer on Super User](https://superuser.com/a/1704081/157255)
+
+For other operating systems, check out [the other answers on Super User](https://superuser.com/questions/1103354/keyboard-shortcut-to-open-new-tab-next-to-current-tab-in-google-chrome).
