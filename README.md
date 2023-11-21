@@ -28,7 +28,7 @@ For other operating systems, check out [the other answers on Super User](https:/
 
 The longer that I use the Internet and web browsers, the more that any browser extensions make me nervous, since they often have access to all data on websites that you visit:
 
-<img src="https://github.com/karlhorky/chrome-tricks/assets/1935696/df4704de-8f21-4bfb-9763-217858a2db5b" alt='Negative browser extension review with the message "DO NOT DOWNLOAD THIS, it gives permissions to read and write ALL DATA you visit on ALL websites, this is a massive, massive secutity data breach to every single user!!! (read the pop up before hitting install!)' />
+<img src="browser-extension-bad-review.webp" alt='Negative browser extension review with the message "DO NOT DOWNLOAD THIS, it gives permissions to read and write ALL DATA you visit on ALL websites, this is a massive, massive secutity data breach to every single user!!! (read the pop up before hitting install!)' />
 
 So I would recommend that everyone reduce reliance on browser extensions:
 
@@ -39,7 +39,7 @@ So I would recommend that everyone reduce reliance on browser extensions:
    2. Click on the three dots next to extension -> "This can read and change site data"
    3. Choose "when I click the extension"
    4. Optional: when you want to enable the extension permanently for specific websites containing less sensitive information, choose "On <domain>" when on the website
-   <img src="https://github.com/karlhorky/chrome-tricks/assets/1935696/4232d322-4b87-41bd-9233-f7c632518776" alt="Screenshot showing the steps above" />
+   <img src="browser-extension-reduce-access.webp" alt="Screenshot showing the steps above" />
 4. Use a separate browser with zero browser extensions for very sensitive things
 
 ## Show Tab Count in Window
