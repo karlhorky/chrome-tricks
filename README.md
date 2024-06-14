@@ -1,6 +1,6 @@
 # Chrome Tricks
 
-A collection of tricks for Google Chrome
+A collection of useful tricks for Google Chrome
 
 ## Open New Tab Next to Current Tab
 
